@@ -1,0 +1,12 @@
+{
+  "name": "Coins",
+  "description": "The 300 GOATS of web3.",
+  "image": "https://raw.githubusercontent.com/apemoon300/thnd-goats/main/3.png",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Goat",
+      "value": "OG"
+    }
+  ]
+}

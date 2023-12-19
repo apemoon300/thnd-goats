@@ -1,0 +1,12 @@
+{
+  "name": "Herald",
+  "description": "The 300 GOATS of web3.",
+  "image": "https://raw.githubusercontent.com/apemoon300/thnd-goats/main/7.png",
+  "edition": 7,
+  "attributes": [
+    {
+      "trait_type": "Goat",
+      "value": "OG"
+    }
+  ]
+}

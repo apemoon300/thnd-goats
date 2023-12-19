@@ -1,0 +1,12 @@
+{
+  "name": "Watty",
+  "description": "The 300 GOATS of web3.",
+  "image": "https://raw.githubusercontent.com/apemoon300/thnd-goats/main/11.png",
+  "edition": 11,
+  "attributes": [
+    {
+      "trait_type": "Goat",
+      "value": "OG"
+    }
+  ]
+}

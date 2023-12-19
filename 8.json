@@ -1,0 +1,12 @@
+{
+  "name": "Jude",
+  "description": "The 300 GOATS of web3.",
+  "image": "https://raw.githubusercontent.com/apemoon300/thnd-goats/main/8.png",
+  "edition": 8,
+  "attributes": [
+    {
+      "trait_type": "Goat",
+      "value": "OG"
+    }
+  ]
+}
